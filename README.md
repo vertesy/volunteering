@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to our page 
 
-You can use the [editor on GitHub](https://github.com/vertesy/volunteering/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We -Parisa and Abel- are searching for 2-3 month volunteery project. We would like to teach or work with children. But if its not useful, we are happy to do something else, preferrably wokring with people. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Skills
 
-### Markdown
+#### Parisa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Speaks English / Farsi and somewhat Dutch, Arabic and German.
+- PhD in physics / material sciences
+- Teach mathematics, natural sciences or english. 
+- Empowering women
 
-```markdown
-Syntax highlighted code block
+#### Abel
 
-# Header 1
-## Header 2
-### Header 3
+- Speaks English / German / Hungarian and somewhat Dutch.
+- PhD in biology / material sciences
+- Teach natural sciences or programming. 
 
-- Bulleted
-- List
+### Timing
 
-1. Numbered
-2. List
+A 2-3 months period within a ~7 month interval between May/2018 and Nov/2018.
 
-**Bold** and _Italic_ and `Code` text
+### Location
 
-[Link](url) and ![Image](src)
-```
+We are pretty open about the region. If we can communicate with locals in some of the listed languages would be a plus.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vertesy/volunteering/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
