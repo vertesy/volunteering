@@ -1,6 +1,9 @@
-## Welcome to our page 
+## We are searching
 
-We -Parisa and Abel- are searching for 2-3 month volunteery project. We would like to teach or work with children. But if its not useful, we are happy to do something else, preferrably wokring with people. 
+We are a couple, Parisa and Abel and we are searching for a voluntary project where we can contribute to people in need. 
+A volunteery project around 2-3 month is what we are thinking about. We would like to teach or work with children. But if its not useful, we are happy to do something else, preferrably wokring with people. 
+
+![](AP.jpg)
 
 ### Our Skills
 
