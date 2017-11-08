@@ -47,3 +47,8 @@ A 2-3 months period within a ~7 month interval between May/2018 and Nov/2018.
 We are pretty open about the region. If we can communicate with locals in some of our languages, that would be a plus.
 
 
+
+## Contact us!
+
+If you have a good idea for us, or willing to share your experience, please write us on ***vertesy _AT hubrecht _dot eu***
+
