@@ -15,8 +15,8 @@ As both of us are completely inexperienced in volunteering, we are not sure what
 #### Parisa
 
 - Speaks English / Farsi and somewhat Dutch, Arabic and German.
-- PhD in physics / material sciences
-- Teaching mathematics, natural sciences or english —  I was tutoring students during high school and my PhD
+- PhD in physics, subject: Solar cells.  Masters in engineering.
+- Teaching mathematics, natural sciences or english —  I was tutoring students during high school and my PhD.
 - Driving License, B2.
 
 
@@ -36,7 +36,9 @@ As both of us are completely inexperienced in volunteering, we are not sure what
 
 We would like to help people or communities using our skills, as well as to learn about the life and needs of people in less developed parts of the world.
 
-We would like to find a projects where we can be most useful, preferentially teaching children. Parisa would be also happy to work on empowering women too.
+We would like to find projects  preferentially teaching adults or children, or related to women empowering. 
+
+Parisa is also interested in volunteering  projects related to renewable energy in developing countries.
 
 ### Timing
 
@@ -44,9 +46,7 @@ A 2-3 months period within a ~7 month interval between May/2018 and Nov/2018.
 
 ### Location
 
-We are pretty open about the region. If we can communicate with locals in some of our languages, that would be a plus.
-
-
+We are pretty open about the region, however it is prefered if we can communicate with locals in some of our listed languages. Giving services to people affected by war is also in our highest interest. 
 
 ## Contact us!
 
