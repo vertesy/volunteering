@@ -36,9 +36,11 @@ As both of us are completely inexperienced in volunteering, we are not sure what
 
 We would like to help people or communities using our skills, as well as to learn about the life and needs of people in less developed parts of the world.
 
-We would like to find projects  preferentially teaching adults or children, or related to women empowering. 
+We would like to find projects preferentially teaching adults or children, or related to women's empowerment.
 
-Parisa is also interested in volunteering  projects related to renewable energy in developing countries.
+Parisa is also interested in volunteering projects related to renewable energy in developing countries.
+
+Abel is also interested in teaching bioinformatics, programming or data analysis at univerisities.
 
 ### Timing
 
